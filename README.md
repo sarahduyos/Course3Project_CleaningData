@@ -13,7 +13,7 @@ The R script "run_analysis.R will" do the following:
 	1.Merges the source training and the test sets to create one data set.
 	2.Extracts only the measurements on the mean and standard deviation for each measurement, excluding other measurements in the original data. 
 	3.Uses descriptive activity names to name the activities in the data set
-	4.Appropriately labels the data set with descriptive variable names following the standards for tidy data (no special characters in column names 		  and always lower case). 
-	5.From the data set in step 4, a second, independent tidy data set named "averagebypersonactivity" is created. It contains the average (mean) of 		  each metric for each combination of activity and subject.
+	4.Appropriately labels the data set with descriptive variable names following the standards for tidy data (no special characters in column names and always lower case). 
+	5.From the data set in step 4, a second, independent tidy data set named "averagebypersonactivity" is created. It contains the average (mean) of each metric for each combination of activity and subject.
 
 Sarah M. Duyos, August 2016
